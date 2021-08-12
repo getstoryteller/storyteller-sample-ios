@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "storyteller-sdk-package",
+        "repositoryURL": "https://github.com/getstoryteller/storyteller-sdk-swift-package/",
+        "state": {
+          "branch": null,
+          "revision": "f3a4ab19ad331b92915c0a5a1bae1716d0f38686",
+          "version": "4.5.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
